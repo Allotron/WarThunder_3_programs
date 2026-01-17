@@ -4,28 +4,26 @@ WT Tracker — отслеживает по кил-чату живых проти
 Таймер — таймер для игры «Майнкрафт», в котором друзья, играющие с вами в одном мире без вас, могут выйти из мира и выключить ваш компьютер, или же сама программа по заданному времени выйдет из мира и выключит компьютер.  
 Видео гайд: 
 
-Установка:
-Для всех:
-1. Установите Python 3.11 с (https://www.npackd.org/p/org.python.Python64/3.11), отметьте **Add Python to PATH** при установке.
-Команда для проверки установленного Python:
-py --version
-2. Откройте командную строку от имени администратора.
-3. Обновите pip и установите основные пакеты:
-   py -m pip install --upgrade pip 
-Если при установке основных компонентов в командной строке высвечивается предупреждение, то скопируйте путь, перейдите в «Пуск» — «Изменение системных переменных среды» — «Переменные среды», в первой таблице выберите path, нажмите «Изменить», «Создать» и вставляйте скопированный ранее путь
+Установка:  
+Для всех:  
+1. Установите Python 3.11 с (https://www.npackd.org/p/org.python.Python64/3.11), отметьте **Add Python to PATH** при установке.  
+Команда для проверки установленного Python:  
+py --version  
+2. Откройте командную строку от имени администратора.  
+3. Обновите pip и установите основные пакеты:  
+   py -m pip install --upgrade pip   
+Если при установке основных компонентов в командной строке высвечивается предупреждение, то скопируйте путь, перейдите в «Пуск» — «Изменение системных переменных среды» — «Переменные среды», в первой таблице выберите path, нажмите «Изменить», «Создать» и вставляйте скопированный ранее путь.  
 
-Устанавливайте библиотеки для нужного приложения или все сразу
- 1) Translator
-   py -m pip install pipwin
-   py -m pip install PyQt6 requests googletrans==4.0.0-rc1 SpeechRecognition pyperclip
-   pip3 install PyAudio==0.2.14
+Устанавливайте библиотеки для нужного приложения или все сразу.  
+ 1) Translator  
+   py -m pip install pipwin  
+   py -m pip install PyQt6 requests googletrans==4.0.0-rc1 SpeechRecognition pyperclip  
+   pip3 install PyAudio==0.2.14  
 
+ 2) WT Tracker  
+   pip install PyQt6 requests  
+   pip install pyautogui pillow  
+   pip install keyboard  
 
- 2) WT Tracker
-   pip install PyQt6 requests
-   pip install pyautogui pillow
-   pip install keyboard
-
-
- 3) Таймер
-   pip install pyperclip pynput
+ 3) Таймер  
+   pip install pyperclip pynput  
