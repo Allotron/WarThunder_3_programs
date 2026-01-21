@@ -1,0 +1,1 @@
+{"x": 0, "y": 353, "size": 20, "opa": 100, "nations": ["USSR", "China", "Italy", "France"], "types": ["tank", "plane", "heli", "zsu", "special"], "scan_region": [965, 276, 240, 24], "scan_hotkey": "\\", "overlay_hotkey": "f5", "show_notes": false, "show_names": false, "sound_enabled": true}
