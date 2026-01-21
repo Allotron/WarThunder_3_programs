@@ -25,7 +25,7 @@ py --version
    py -m pip install pipwin  
    py -m pip install PyQt6 requests googletrans==4.0.0-rc1 SpeechRecognition pyperclip  
    pip3 install PyAudio==0.2.14
-   pip install keyboard    
+   pip install keyboard     
 
  3) WT Tracker  
    pip install PyQt6 requests  
