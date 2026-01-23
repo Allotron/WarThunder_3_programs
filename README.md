@@ -30,7 +30,8 @@ py --version
  3) WT Tracker  
    pip install PyQt6 requests  
    pip install pyautogui pillow  
-   pip install keyboard  
+   pip install keyboard   
+   pip install opencv-python     
 
- 4) Таймер  
+ 5) Таймер  
    pip install pyperclip pynput  
