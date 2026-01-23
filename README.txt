@@ -27,8 +27,9 @@ py --version
    pip install PyQt6 requests
    pip install pyautogui pillow
    pip install keyboard
-
+   pip install opencv-python
 
  3) Таймер
    pip install pyperclip pynput
+
 
