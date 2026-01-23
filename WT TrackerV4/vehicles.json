@@ -1,0 +1,2356 @@
+﻿{
+  "RDF/LT": {
+    "nation": "USA",
+    "type": "tank",
+    "note": "Пример заметки"
+  },
+  "HSTV-L": {
+    "nation": "USA",
+    "type": "tank",
+    "note": "Пример заметки Бр 12.0"
+  },
+  "CCVL": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "Abrams": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1 KVT": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1128 Wolfpack": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M3A3 Bradley": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "XM803": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "Stingray": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "MBT-70": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "XM800T": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A1 Click-Bait": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A1 HC": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A1 AIM": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "120S": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A2 SEP": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A2 SEP V2": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "IPM1": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M10 Booker": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "LOSAT": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M60 AMBT": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "T58": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "XM1 (Chrysler)": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "XM1 (GM)": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M901": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M551": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M3 Bradley": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M2": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M22": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M4A1": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M2A4": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1128": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M1A1": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M60A3 TTS": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "EFV": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M109A1": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M41A1": {
+    "nation": "USA",
+    "type": "tank"
+  },
+  "M4A3E2 (76) W": {
+    "nation": "USA",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+
+
+  "F-16C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-4E Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-117": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-10A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-106A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4C Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4E Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-8E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4J Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-10A Late": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-10C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-105D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-111A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-111F": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-6E TRAM": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8B (NA)": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4S Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7K": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16A ADF": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15C MSIP II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15C Golden Eagle": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-14A Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-14B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18C Late": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8B Plus": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-20A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-14A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18C Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-57": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4J": {
+    "nation": "USA",
+    "type": "plane"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  "AH-64D": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64E": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1Z": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "MH-60L DAP": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64A Peten": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64A (GR)": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "YAH-64": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "RAH-66": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1W": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64A": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "OH-58D": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-6M": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1F": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "UH-1B": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1G": {
+    "nation": "USA",
+    "type": "heli"
+  },
+
+
+
+
+
+  "ADATS": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "XM246": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "M247": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "Imp.Chaparral": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "LAV-AD ": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "XM975": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "M13": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+  "M163": {
+    "nation": "USA",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+
+
+
+
+  "БМПТ-72": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "2С38": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМПТ": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "T-72M2": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМД-4M2": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМП-2М": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Объект 292": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-72Б": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80Б": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80УД": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-90А": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-72АВ (TURMS-T)": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-64Б": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "2С25М": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-64А (1971)": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-55А": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМП-3": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80У-Е1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80УК": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80УМ2": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-90М": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Хризантема-С": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БТР-80А": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "2С19М1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Объект 435": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Объект 775": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ИТ-1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Объект 906": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Объект 279": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ИС-1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БТР-82АТ": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "АСУ-57": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМД-4M": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМП-2": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БТ-5": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ЗиС-12 (94-КМ)": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ЗиС-30": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-72Б (1989)": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-72Б3": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-80У": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-72А": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ЯГ-10 (29-К)": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "СУ-152": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМД-4": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Штурм-С": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-55АМД-1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-26": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БТ-7": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-62М-1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "2С25": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БМП-1": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "БТР-152Д": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "ИСУ-152": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+  "Т-34-57": {
+    "nation": "USSR",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+
+
+  "Су-25К": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-38М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21С (Р-13-300)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-38": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-7БМК": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-17М2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-17М4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25Т": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-27М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-27К": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-24М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-39": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25БМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-22М3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-25ПД": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-23МЛ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-141": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29СМТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-27": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-27СМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-30СМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-30СМ2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25CM3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-34": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-33": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Su-30МК2 AMV": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-8": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Орион": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21С": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-15бис ИШ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-200": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-63C": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-301": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+
+
+
+
+
+
+
+
+
+  "Ми-28НМ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ка-52": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-35П": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-28Н": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-8АМТШ-ВН": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ка-29": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-35М": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24П": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-8АМТШ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24В": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ка-50": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-4АВ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24А": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Toр-M1": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "2С6": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "Оса-АКМ": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "Стрела-10М2": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "ЗСУ-23-4М4": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "Панцирь-С1": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "ЗСУ-23-4В": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "ЗСУ-57-2": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "ЗСУ-37-2": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "БТР-ЗД ": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+  "ЗСУ-23-4М2 ": {
+    "nation": "USSR",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+
+  "TAM 2C": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "PUMA VJTF": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Vilkas": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2A4": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2K": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 1A5": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2 (PzBtl 123)": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Radkampfwagen 90": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Boxer MGS": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Wiesel 1A2": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2A5": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2PL": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2A7V": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "R400": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Wiesel 1A4": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Begleitpanzer 57": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "KPz-70": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard A1A1": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard A1A1 (L/44)": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "M48A2 G A2": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "TAM": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "TAM 2IP": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "◊T-72M1": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard I": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "PzH 2000": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "PT-16/T14 mod.": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "M48 Super": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "C2A1": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "PUMA": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Jaguar 2": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "SPz BMP-1": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Pz.IV F2": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Marder 1A3": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "mKPz M47 G": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "15cm sIG 33 B Sfl": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2A4M": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Panzerjäger I": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "◍Leopard 2A4M": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+  "Leopard 2AV": {
+    "nation": "Germany",
+    "type": "tank"
+  },
+
+
+
+
+  "◌Hunter F.58": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌FFA P-16": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄MiG-21 SPS-K": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Alpha Jet A": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23BN": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-84F": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Hunter F.58A (1971)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-104G": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-21MF": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-21bis-SAU": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23MLA": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊Su-22UM3K": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊Su-22M4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Mirage IIIS C.70": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F-5E": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F/A-18C Late": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS ASSTA1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄MiG-29G": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS SLE": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-29": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F KWS LV": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄EF-2000": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄EF-2000 (AESA)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F/A-18C": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS MFG": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Su-22M4 WTD61": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS WTD61": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23MF": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F Early": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Su-22M4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Hunter F": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+
+
+
+
+
+
+  "▄Tigre HAD-E": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◄Mi-24P HFS 80": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "BO 105 PAH-1": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "BO 105 PAH-1A1": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◊Mi-24P": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "EC-665 Tiger UHT": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◊Mi-8TB": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◄UH-1D": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+
+
+
+
+  "◊Osa-AK": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "Ozelot": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "Gepard": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "Gepard 1A2": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "FlaRakPz 1": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "◊Strela-10M": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+  "FlaRakRad": {
+    "nation": "Germany",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+
+
+  "Challenger DS": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "TTD": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Bhishma TWMP": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger Mk.2": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger 2": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Ajax": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Desert Warrior": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Badger": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger Mk.3": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "FV4030/3": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Fox": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Rooikat MTTD": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Stormer AD": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Tetrarch I": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Vickers Mk.7": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "CRV Block 2": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "FV4005": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Rooikat 105": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Olifant Mk.2": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Daimler Mk II": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger 2 OES": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Rooikat Mk.1D": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Vickers Mk.1": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Centurion Mk.10": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger 2 (2F)": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Warrior": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "ZT3A2": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Challenger 2 TES": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "A13 Mk.I": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Concept 3": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+  "Khalid": {
+    "nation": "Great Britain",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+
+
+
+  "F-111C": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Harrier FRS.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Phantom FGR.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Jaguar GR.1A": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Jaguar GR.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Buccaneer S.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Harrier GR.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hawk 200": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄MiG-21 Bison": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+
+
+
+
+
+  "G-LYNX": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Superhind": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+
+
+
+
+
+
+  "Stormer HVM": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+  "Falcon": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+  "ZA-35": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+  "▄Strela-10M": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+  "▄Osa-AK": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+  "ADATS (M113)": {
+    "nation": "Great Britain",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+  "TKX (P)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "TKX": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "BM Oplot-T": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "STB-2": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 16 (FPS)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 16 (P)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 25 RCV (P)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 89": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 93": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 90 (B) \"Fuji\"": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 74 (G)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 24 ICV (P)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 90": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 90 (B)": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "Type 16": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "▄M60A3 TTS": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+  "▄Stingray": {
+    "nation": "Japan",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+
+  "F-2A": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-5E": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+
+
+
+
+
+
+  "AH-1S": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+
+
+
+  "Type 81 (C)": {
+    "nation": "Japan",
+    "type": "zsu"
+  },
+  "▄M163": {
+    "nation": "Japan",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+
+  "ZTZ99A": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZTZ99-III": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "Al-Khalid-I": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZTZ96A (P)": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "PLZ05": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "VT5": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "T-80UD/BE": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "AFT09": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "QN506": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "MBT-2000": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "VT4": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "WZ1001(E) LCT": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZBD04A": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "CM34": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "T-69 II G": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZTZ96": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZTZ96A": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZTZ99-II": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "WMA301": {
+    "nation": "China",
+    "type": "tank"
+  },
+  "ZLT11": {
+    "nation": "China",
+    "type": "tank"
+  },
+
+
+
+
+
+
+  "J-11A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "JH-7A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "A-5C": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Q-5L": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-7D": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Wing Loong I": {
+    "nation": "China",
+    "type": "plane"
+  },
+
+
+
+
+
+
+  "Z-10": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-19E": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-10A": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "▄Mi-35M": {
+    "nation": "China",
+    "type": "heli"
+  },
+
+
+
+
+
+
+
+
+  "Tor-M1": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "Antelope": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "PGZ04A": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "PGZ09": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "HQ17": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "CS/SA5": {
+    "nation": "China",
+    "type": "zsu"
+  },
+  "WZ305": {
+    "nation": "China",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+  "Ariete AMV": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Ariete Сertezza": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Ariete PSO": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Centauro RGO": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "KF41": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Dardo": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Freccia": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "L3/33 CC": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Ariete (P)": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Centauro I 105": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "OF-40 (MTCA)": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "VBC (PT2)": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "VRCC": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "◔Leopard 2A4": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "◔VCC-80/60": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Freccia OWS 30": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "▄Leopard 1A5": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+  "Centauro I 120": {
+    "nation": "Italy",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+
+  "F-16ADF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-104S": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+
+
+
+
+
+
+
+  "A129 CBT": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "T129": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+
+
+
+
+
+
+  "OTOMATIC": {
+    "nation": "Italy",
+    "type": "zsu"
+  },
+  "◔Strela-10M": {
+    "nation": "Italy",
+    "type": "zsu"
+  },
+  "SIDAM 25 (Mistral)": {
+    "nation": "Italy",
+    "type": "zsu"
+  },
+  "▄Osa-AKM": {
+    "nation": "Italy",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+
+  "MSC": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "Leopard 2 (OTCo)": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "Vextra 105": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "EBRC Jaguar": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "Leclerc AZUR": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMX-32": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMX-32 (105)": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMX-40": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "MEPHISTO": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "Somua SM": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "VBCI-2 (MCT30)": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMX-30B2": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMX-30 Super": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "Leopard 2A4NL": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "AMD.35": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "H.35": {
+    "nation": "France",
+    "type": "tank"
+  },
+  "H.39": {
+    "nation": "France",
+    "type": "tank"
+  },
+
+
+
+
+
+  "Mirage 4000": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Super Etendard": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Alpha Jet E": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000": {
+    "nation": "France",
+    "type": "plane"
+  },
+
+
+
+
+
+
+
+  "EC-665 Tiger HAP": {
+    "nation": "France",
+    "type": "heli"
+  },
+
+
+
+
+  "Roland 1": {
+    "nation": "France",
+    "type": "zsu"
+  },
+  "SANTAL": {
+    "nation": "France",
+    "type": "zsu"
+  },
+  "AMX-30 S DCA": {
+    "nation": "France",
+    "type": "zsu"
+  },
+
+
+
+
+  "CV 90105": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Christian II": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strf 9040C": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strv 121": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Lvkv 9040C": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CV90120-T": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CT-CV 105HP": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "VIDAR": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "T 80 U": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CV 90 Mk.IV": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strv 122B+": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strf 9040 BILL": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CV 9030FIN": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strf 9040B": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "▄Т-72М1": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "U-SH 405": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CV 9035DK": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "CV 9035NL": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strv 105": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Strv m/38": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "▄Leopard 2A4": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Leopard 1A5NO2": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "Bkan 1C": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+  "BMP-2MD": {
+    "nation": "Sweden",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+  "AJS37": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "AJ37": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JA37C": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A32A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "SAAB-105G": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Saab J35XS": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Saab F-35": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+
+
+
+
+
+
+  "Mi-28A": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+
+
+
+
+
+
+  "ASRAD-R": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+  "ItO 90M": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+  "ItPsV Leopard": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+  "EldE 98": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+  "VEAK 40": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+  "Lvrbv 701": {
+    "nation": "Sweden",
+    "type": "zsu"
+  },
+
+
+
+
+
+
+  "Ra'am Sagol": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Merkava Mk.3B": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Namer 30": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Namer Tsrikhon": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Merkava Mk.2D": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Merkava Mk.3C": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Gal Batash": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Magach 6B Gal": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Magach 6M": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Merkava Mk.2B": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Merkava Mk.1B": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Sabra Mk.I": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Sholef": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+  "Sho't Kal Dalet": {
+    "nation": "Israel",
+    "type": "tank"
+  },
+
+
+
+
+
+
+
+  "F-15I": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kfir Canard": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Ayit": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+
+
+
+
+
+  "AH-60": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+
+
+  "Machbet": {
+    "nation": "Israel",
+    "type": "zsu"
+  },
+  "Imp.Chaparral": {
+    "nation": "Israel",
+    "type": "zsu"
+  },
+  "ZSU-57-2": {
+    "nation": "Israel",
+    "type": "zsu"
+  }
+
+
+
+
+
+}
